@@ -1,0 +1,49 @@
+name,language,watching,stars,forks,issues,commits,pull_requests
+freeCodeCamp,"['TypeScript', 'JavaScript', 'CSS', 'Dockerfile', 'EJS', 'HTML']",8500,410251,39007,168.0,37591,66
+free-programming-books,['HTML'],9800,350789,62853,29.0,9499,55
+awesome,[],7800,347926,28559,12.0,1154,40
+build-your-own-x,['Markdown'],5600,337532,31226,190.0,571,162
+material-ui,"['TypeScript', 'JavaScript']",1300,94823,32495,1700.0,26364,161
+coding-interview-university,[],8400,312127,77981,52.0,2511,8
+developer-roadmap,"['TypeScript', 'Astro', 'JavaScript']",6800,308764,40377,135.0,6243,7
+system-design-primer,"['Python', 'Shell']",6700,289726,48206,232.0,332,246
+996.ICU,[],4200,270281,21133,,3217,4
+awesome-python,"['Python', 'Makefile']",6100,234653,25320,,1679,428
+react,"['JavaScript', 'TypeScript', 'HTML', 'CSS', 'C++', 'CoffeeScript']",6600,232463,47652,776.0,20001,184
+project-based-learning,[],3200,218291,28463,112.0,570,91
+awesome-selfhosted,[],2700,217345,10259,0.0,6709,0
+Python,['Python'],5900,197472,46282,64.0,3490,289
+javascript-algorithms,['JavaScript'],4300,190171,30495,129.0,1120,228
+linux,"['C', 'Assembly', 'Shell', 'Python', 'Makefile', 'Perl']",7800,188099,55190,,1336263,444
+You-Dont-Know-JS,[],5900,181066,33596,81.0,1899,45
+CS-Notes,[],5300,178945,51193,148.0,3781,65
+ohmyzsh,"['Shell', 'Python', 'Makefile']",2700,176203,26011,132.0,7477,339
+computer-science,[],5800,175494,22267,14.0,1066,2
+youtube-dl,['Python'],2200,134296,10212,3700.0,18886,498
+next.js,"['JavaScript', 'TypeScript', 'Rust', 'MDX', 'CSS', 'Shell']",1500,129530,27708,2700.0,27399,664
+ollama,"['Go', 'C', 'Shell', 'TypeScript', 'PowerShell', 'Inno Setup']",737,128067,10427,1400.0,3895,204
+fucking-algorithm,['Markdown'],2300,126878,23304,4.0,516,40
+go,"['Go', 'Assembly', 'HTML', 'C', 'Shell', 'Perl']",3400,125968,17890,5000.0,62325,338
+d3,"['Shell', 'JavaScript']",3600,109847,22858,9.0,4507,12
+hello-algo,"['Java', 'C++', 'Python', 'Swift', 'Go', 'JavaScript']",569,109173,13586,18.0,2071,19
+yt-dlp,['Python'],567,101063,7917,1500.0,23012,312
+langchain,"['Jupyter Notebook', 'Python', 'Makefile', 'MDX', 'Shell', 'XSLT']",720,101051,16400,344.0,12710,58
+HelloGitHub,['Python'],3100,98686,9822,192.0,204,2
+angular,"['TypeScript', 'JavaScript', 'Starlark', 'HTML', 'CSS', 'SCSS']",3000,96990,25894,1500.0,32192,245
+material-ui,"['TypeScript', 'JavaScript']",1300,94823,32495,1700.0,26364,161
+godot,"['C++', 'C#', 'Java', 'C', 'GLSL', 'Objective-C++']",1500,94130,21719,5000.0,71794,3300
+ant-design,['TypeScript'],242,93753,51248,1200.0,29201,68
+excalidraw,"['TypeScript', 'SCSS', 'MDX', 'JavaScript', 'HTML', 'CSS']",429,92755,8881,1700.0,3672,384
+clean-code-javascript,['JavaScript'],1800,92490,12387,71.0,546,36
+neovim,"['Vim Script', 'C', 'Lua', 'CMake', 'Python', 'Shell']",975,86346,5881,1600.0,31874,310
+every-programmer-should-know,[],2000,86218,7936,29.0,284,25
+storybook,"['TypeScript', 'JavaScript', 'MDX', 'Svelte', 'Vue', 'HTML']",933,85892,9441,2000.0,66351,139
+rustdesk,"['Rust', 'Dart', 'C', 'C++', 'Kotlin', 'Python']",496,82453,11521,49.0,10279,7
+app-ideas,[],1800,82220,9653,126.0,536,356
+bitcoin,"['C++', 'Python', 'C', 'CMake', 'Shell', 'Makefile']",4000,82093,36805,386.0,43983,273
+svelte,"['JavaScript', 'Svelte', 'TypeScript', 'CSS', 'HTML']",848,81466,4394,766.0,10003,53
+animate.css,"['CSS', 'HTML', 'JavaScript', 'Shell']",2300,81331,16226,32.0,664,21
+ui,"['TypeScript', 'MDX']",261,81278,5332,781.0,650,879
+realworld,"['TypeScript', 'Shell', 'Procfile']",1500,81219,7405,44.0,974,24
+NextChat,"['TypeScript', 'SCSS']",426,81061,60932,562.0,3014,81
+opencv,"['C++', 'C', 'Python', 'CMake', 'Java', 'Objective-C++']",2700,80669,55987,2600.0,34975,145
